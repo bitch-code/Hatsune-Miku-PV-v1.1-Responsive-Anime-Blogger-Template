@@ -1,0 +1,24 @@
+<div class='mikupv_thumb fx'>
+
+<!-- IMG HERE -->
+
+</div>
+<div class='mikupv_wrap'>
+<ul class="nav nav-tabs" role="tablist">
+<li role="presentation" class="active"><a href="#info" aria-controls="info" role="tab" data-toggle="tab"><i class='glyphicon glyphicon-facetime-video'></i> <span>Info</span></a></li>
+<li role="presentation"><a href="#download" aria-controls="download" role="tab" data-toggle="tab"><i class='glyphicon glyphicon-download-alt'></i><span>Download</span></a></li>
+</ul>
+<div class="tab-content ">
+<div role="tabpanel" class="tab-pane active" id="info">
+
+<!-- INFO HERE -->
+
+</div>
+<div role="tabpanel" class="tab-pane" id="download">
+
+<!-- DOWNLOAD HERE -->
+
+</div>
+</div>
+</div>
+<!-- end mikupv_wrap -->

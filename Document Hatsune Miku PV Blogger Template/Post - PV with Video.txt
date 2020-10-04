@@ -1,0 +1,37 @@
+/*
+NOTE :
+IF YOU WANT DEFER VIDEO (OPTIMIZED VIDEO)
+CHANGE src BE data-src (lowercase)
+*/
+
+<div class='mikupv_thumb fx'>
+
+<!-- IMG HERE -->
+
+</div>
+<div class='mikupv_wrap'>
+<ul class="nav nav-tabs pv_stream" role="tablist">
+<li role="presentation" class="active"><a href="#info" aria-controls="info" role="tab" data-toggle="tab"><i class='glyphicon glyphicon-facetime-video'></i> <span>Info</span></a></li>
+<li role="presentation"><a href="#download" aria-controls="download" role="tab" data-toggle="tab"><i class='glyphicon glyphicon-download-alt'></i><span>Download</span></a></li>
+<li role="presentation"><a href="#stream" aria-controls="stream" role="tab" data-toggle="tab"><i class='glyphicon glyphicon-film'></i><span>Streaming</span></a></li>
+</ul>
+<div class="tab-content ">
+<div role="tabpanel" class="tab-pane active" id="info">
+
+<!-- INFO HERE -->
+
+</div>
+<div role="tabpanel" class="tab-pane" id="download">
+
+<!-- DOWNLOAD HERE -->
+
+</div>
+<div role="tabpanel" class="tab-pane" id="stream">
+
+<!-- EMBED IFRAME HERE IF YOU WANT DEFER CHANGE SRC BE DATA-SRC (lowercase text)-->
+
+</div>
+</div>
+</div>
+<!-- end tab-content -->
+<!-- end mikupv_wrap -->
